@@ -24,7 +24,7 @@ namespace Övning_8
                     //Console.WriteLine(faktor);
                     i = 0;
                 }
-                if(i == input)
+                if(i == input && check)
                 {
                     Console.WriteLine($"en faktor är {faktor}");
                 }
